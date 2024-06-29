@@ -27,11 +27,11 @@ Data is loaded into Power Query and the following transformations were done:
 Using tools like Column Quality,Column profile and Column distribution- each attribute of a dataset is studied for the presence of error,valid values,empty values,distribution of data,identification of unique values,etc..
 
 # Feature Engineering:
-1. ** New column "Year" ** was created from date column
-2. **New column "MonthName"** was created from date column
-3. **New column "Quarter"** was created from date column
-4. ** New column "week of year"** was created from date column
-5. ** Created a conditional column namely Holiday or working day **using conditional statements
+1. New column "Year" was created from date column
+2. New column "MonthName" was created from date column
+3. New column "Quarter" was created from date column
+4. New column "week of year" was created from date column
+5. Created a conditional column namely Holiday or working day using conditional statements
 
 # DAX Measures:
 Measure table was created in PowerBI front end to store all measures.
